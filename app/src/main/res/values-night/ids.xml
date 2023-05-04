@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvresult" type="id">tvresult</item>
+    <item name="btnsubs" type="id">btnsubs</item>
+    <item name="btnmultiply" type="id">btnmultiply</item>
+    <item name="btndivide" type="id">btndivide</item>
+</resources>
