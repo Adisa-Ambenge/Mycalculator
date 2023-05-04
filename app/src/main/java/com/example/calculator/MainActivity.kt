@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         btndivide = findViewById(R.id.btndivide)
         btnmultiply = findViewById(R.id.btnmultiply)
         btnsubs = findViewById(R.id.btnsubs)
-        tvresult = findViewById(R.id.tvresult)
+        tvresult = findViewById(R.id.tvOutput)
         Clicklistener()
     }
 

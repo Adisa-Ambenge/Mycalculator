@@ -23,7 +23,7 @@
             android:id="@+id/etNumber"
             android:layout_width="389dp"
             android:layout_height="wrap_content"
-            android:hint="Number" />
+            android:hint="Num1" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -41,7 +41,7 @@
             android:id="@+id/etNumbertwo"
             android:layout_width="379dp"
             android:layout_height="wrap_content"
-            android:hint="Number two" />
+            android:hint="Num2" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
@@ -97,13 +97,13 @@
         app:layout_constraintTop_toBottomOf="@+id/btnmultiply" />
 
     <TextView
-        android:id="@+id/tvresult"
+        android:id="@+id/tvOutput"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
-        android:text="Result"
+        android:text="Ans"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btndivide" />
